@@ -1,0 +1,11 @@
+WORKING WITH FILES
+
+In the box "Files" at the left side of the screen you can see the content of different folders by clicking on the 
+minus sign if they are collapsed. For example, click on the minus sign of the OSF icon to view documents stored there.
+
+To view a document, click on it.
+To edit a document: 
+1. View the document by clicking on it.
+2. Click on the download button that appears at the top.
+3. Edit the document on your computer.
+4. Upload the revised document by drag­and­dropping it in the folder it came from. This will create a new version of the document. Note that the previous version will not be deleted. Version history is automatically added ­ you dont have to rename the document.
